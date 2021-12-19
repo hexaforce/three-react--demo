@@ -1,2 +1,6 @@
-# three-react--demo
-three.js react demo
+# React
+
+```
+npm i
+
+npm start
